@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tomasz
+👋 Hi, I’m @tomasz
 
 <!---
 tomatito1/tomatito1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
